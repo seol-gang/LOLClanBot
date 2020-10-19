@@ -1,0 +1,5 @@
+node_modules/
+logs/*.json
+logs/*.log
+logs/error/*.json
+logs/error/*.log

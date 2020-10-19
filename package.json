@@ -1,0 +1,22 @@
+{
+  "name": "aradiscordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.2.0",
+    "discord.js": "^12.3.1",
+    "firebase-admin": "^9.1.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "urlencode": "^1.1.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SeolGang",
+  "license": "ISC"
+}
